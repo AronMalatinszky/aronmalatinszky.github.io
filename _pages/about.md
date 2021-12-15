@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a pre-doctoral research fellow at J-PAL North America, assisting Professor Amy Finkelstein in studies in healthcare economics. 
+I'm a predoctoral research fellow at J-PAL North America, where I assist the research of Professor Amy Finkelstein. 
 I graduated from Boston University in May 2020 with a B.A. in Economics and Mathematics and a M.A. in Economics. 
 My passions include academic economic research, any kind of problem-solving, skiing, cycling, learning languages (be it foreign or programming), and spending time with my family.
   
