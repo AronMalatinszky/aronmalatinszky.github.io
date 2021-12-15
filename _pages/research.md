@@ -1,16 +1,7 @@
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
----
+## Publications
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[Comment on M.G. Sciffer, L.B. Perry, & A.M. McConney, “Critiques of socio-economic school compositional effects: are they valid?”](http://aronmalatinszky.github.io/files/malatinszky_comment_2021.pdf)
+(with David J. Armor)
 
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[The Impact of School SES on Student Achievement: Evidence From U.S. Statewide Achievement Data](http://aronmalatinszky.github.io/files/armor_ses_2018.pdf)
+(with David J. Armor and Gary N. Marks)
