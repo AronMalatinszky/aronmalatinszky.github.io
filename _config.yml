@@ -86,7 +86,7 @@ author:
   location         : "Boston, MA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID" # TODO: replace YOUR_ID with your profile ID
   email            :
   researchgate     :
   uri              :
