@@ -13,6 +13,6 @@ I graduated from Boston University in May 2020 with a B.A. in Economics and Math
 My passions include academic economic research, any kind of problem-solving, skiing, cycling, and spending time with my family.
   
 My main research interests lie in:
+- Political economy
+- Public economics
 - Economics of education
-- Labor economics
-- Public finance
