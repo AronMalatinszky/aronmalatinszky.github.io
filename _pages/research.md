@@ -3,7 +3,7 @@ title: Research
 permalink: /research/
 ---
 
-<div class="research-content">
+<div class="small">
 
 ## Working Papers
 
