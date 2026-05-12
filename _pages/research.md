@@ -5,6 +5,7 @@ permalink: /research/
 
 <div class="small">
 
+#  
 ## Working Papers
 
 [Electoral Incentives and Government Transparency: Evidence from Freedom of Information Requests](https://sites.bu.edu/fisman/files/2025/12/Measuring_Government_Openness_Through_Freedom_of_Information_Requests_24_11_2023_Full-29.pdf)  
